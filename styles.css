@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size:10px;
+    background-color: rgb(112, 98, 98);
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+
+.container{
+    border-radius: 1.3rem;
+    padding: 0.5rem;
+    background: white;
+    width: 100%;
+    max-width: 300px;
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+input{
+    border-radius: 5px;
+    text-align: center;
+    
+}
