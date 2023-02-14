@@ -1,5 +1,5 @@
 <?
-include"conexao.php";
+include "conexao.php";
 
 $id = $_REQUEST["id"];
 

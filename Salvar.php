@@ -1,6 +1,6 @@
 <?
 
-include"conexao.php";
+include "conexao.php";
 
 $n = $_REQUEST['nome'];
 $i = $_REQUEST['idade'];
